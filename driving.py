@@ -11,3 +11,5 @@ elif country == 'USA':
 		print('U can have the license')
 	else:
 		print(' Fuck u not yet get license')
+else:
+	print("U only can choose Taiwan or USA dude")
